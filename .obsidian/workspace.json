@@ -11,8 +11,12 @@
             "id": "41f9ab59b2f35602",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cloud (AWS EC2)/AWS ECR service quotas.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cloud (AWS EC2)/AWS ECR service quotas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cloud (AWS EC2)/AWS ECR service quotas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cloud (AWS EC2)/AWS ECR service quotas.md"
+              }
             }
           }
         ]
@@ -149,42 +157,42 @@
   },
   "active": "41f9ab59b2f35602",
   "lastOpenFiles": [
-    "Knowledge/Knowledge.md",
-    "Upgrade System/Upgrade System.md",
-    "Ubuntu Installation/Ubuntu Installation.md",
-    "PHP MongoDB Redis/PHP MongoDB Redis.md",
-    "Computer Network/Computer Network.md",
-    "Database/Database.md",
-    "Backend Setup/Backend Setup.md",
-    "Docker/Docker.md",
     "Cloud (AWS EC2)/Cloud (AWS EC2).md",
-    "Knowledge/File Permissions in Unix.md",
-    "Knowledge/Untitled.md",
+    "Cloud (AWS EC2)/AWS ECR service quotas.md",
     "Knowledge/Set Environment Variables.md",
+    "Knowledge/Knowledge.md",
+    "Knowledge/File Permissions in Unix.md",
     "Knowledge/Database Transaction.md",
     "Knowledge/Nginx.md",
+    "Upgrade System/Upgrade Ubuntu.md",
+    "Ubuntu Installation/GitLab SSH key.md",
+    "Ubuntu Installation/SSH Settings.md",
+    "Ubuntu Installation/Virtualbox Ubuntu.md",
+    "PHP MongoDB Redis/PHP Redis Commands.md",
+    "PHP MongoDB Redis/PHP Redis Connection.md",
+    "PHP MongoDB Redis/PHP MongoDB Commands.md",
+    "PHP MongoDB Redis/PHP MongoDB Connection.md",
+    "Computer Network/Wi-Fi + Ethernet.md",
+    "Computer Network/Wi-Fi Related.md",
+    "Computer Network/Devices.md",
+    "Database/Redis Commands.md",
+    "Database/MongoDB Commands.md",
+    "Database/PostgreSQL Commands.md",
+    "Backend Setup/MySQL & phpMyAdmin.md",
+    "Backend Setup/Wordpress.md",
+    "Docker/Docker.md",
+    "Docker/Ubuntu Install Docker.md",
+    "Docker/Docker Network.md",
     "load_balancer 1.png",
     "Pictures/load_balancer.png",
     "Pictures/forward_and_reverse_proxy.png",
-    "Upgrade System/Upgrade Ubuntu.md",
     "Knowledge",
-    "Ubuntu Installation/GitLab SSH key.md",
     "Upgrade System",
-    "Ubuntu Installation/SSH Settings.md",
-    "Ubuntu Installation/Virtualbox Ubuntu.md",
     "region 2.png",
     "region 1.png",
     "Pictures/region.png",
-    "PHP MongoDB Redis/PHP Redis Commands.md",
     "Ubuntu Installation",
-    "PHP MongoDB Redis/PHP Redis Connection.md",
-    "PHP MongoDB Redis/PHP MongoDB Connection.md",
-    "PHP MongoDB Redis/PHP MongoDB Commands.md",
-    "Computer Network/Devices.md",
-    "Computer Network/Wi-Fi Related.md",
-    "Pictures/Pictures.md",
     "Pictures",
-    "Untitled.md",
     "PHP MongoDB Redis",
     "Pictures/computer_network.png",
     "Computer Network",
