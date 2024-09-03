@@ -45,6 +45,7 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
+    "//Computer Network",
     "//Cloud (AWS EC2)"
   ],
   "expandFolderOnClick": true,

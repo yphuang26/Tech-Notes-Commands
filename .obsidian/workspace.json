@@ -157,6 +157,9 @@
   },
   "active": "41f9ab59b2f35602",
   "lastOpenFiles": [
+    "Computer Network/Wi-Fi Related.md",
+    "Tags",
+    "Computer Network/Devices.md",
     "Cloud (AWS EC2)/Cloud (AWS EC2).md",
     "Cloud (AWS EC2)/AWS ECR service quotas.md",
     "Knowledge/Set Environment Variables.md",
@@ -173,8 +176,6 @@
     "PHP MongoDB Redis/PHP MongoDB Commands.md",
     "PHP MongoDB Redis/PHP MongoDB Connection.md",
     "Computer Network/Wi-Fi + Ethernet.md",
-    "Computer Network/Wi-Fi Related.md",
-    "Computer Network/Devices.md",
     "Database/Redis Commands.md",
     "Database/MongoDB Commands.md",
     "Database/PostgreSQL Commands.md",
@@ -182,7 +183,6 @@
     "Backend Setup/Wordpress.md",
     "Docker/Docker.md",
     "Docker/Ubuntu Install Docker.md",
-    "Docker/Docker Network.md",
     "load_balancer 1.png",
     "Pictures/load_balancer.png",
     "Pictures/forward_and_reverse_proxy.png",
@@ -198,7 +198,6 @@
     "Computer Network",
     "Database",
     "Backend Setup",
-    "Docker",
-    "Cloud (AWS EC2)"
+    "Docker"
   ]
 }
