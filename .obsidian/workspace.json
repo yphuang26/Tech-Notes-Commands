@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud (AWS EC2)/AWS ECR service quotas.md",
+                "file": "Shell Script/Script Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud (AWS EC2)/AWS ECR service quotas.md",
+                "file": "Shell Script/Script Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud (AWS EC2)/AWS ECR service quotas.md",
+                "file": "Shell Script/Script Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud (AWS EC2)/AWS ECR service quotas.md"
+                "file": "Shell Script/Script Introduction.md"
               }
             }
           }
@@ -157,11 +157,20 @@
   },
   "active": "41f9ab59b2f35602",
   "lastOpenFiles": [
-    "Computer Network/Wi-Fi Related.md",
+    "README.md",
+    "Shell Script/Script Introduction.md",
+    "Shell Script/Computer System.md",
     "Tags",
+    "Shell Script/Shell Script.md",
+    "hardware_kernel_shell 2.png",
+    "hardware_kernel_shell 1.png",
+    "Pictures/hardware_kernel_shell.png",
+    "Pictures/Pictures.md",
+    "Cloud (AWS EC2)/AWS ECR service quotas.md",
+    "Shell Script",
+    "Computer Network/Wi-Fi Related.md",
     "Computer Network/Devices.md",
     "Cloud (AWS EC2)/Cloud (AWS EC2).md",
-    "Cloud (AWS EC2)/AWS ECR service quotas.md",
     "Knowledge/Set Environment Variables.md",
     "Knowledge/Knowledge.md",
     "Knowledge/File Permissions in Unix.md",
@@ -178,11 +187,6 @@
     "Computer Network/Wi-Fi + Ethernet.md",
     "Database/Redis Commands.md",
     "Database/MongoDB Commands.md",
-    "Database/PostgreSQL Commands.md",
-    "Backend Setup/MySQL & phpMyAdmin.md",
-    "Backend Setup/Wordpress.md",
-    "Docker/Docker.md",
-    "Docker/Ubuntu Install Docker.md",
     "load_balancer 1.png",
     "Pictures/load_balancer.png",
     "Pictures/forward_and_reverse_proxy.png",
@@ -197,7 +201,6 @@
     "Pictures/computer_network.png",
     "Computer Network",
     "Database",
-    "Backend Setup",
-    "Docker"
+    "Backend Setup"
   ]
 }
