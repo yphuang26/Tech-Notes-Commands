@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shell Script/Script Introduction.md",
+                "file": "Shell Script/SSH Remote Script.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shell Script/Script Introduction.md",
+                "file": "Shell Script/SSH Remote Script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shell Script/Script Introduction.md",
+                "file": "Shell Script/SSH Remote Script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shell Script/Script Introduction.md"
+                "file": "Shell Script/SSH Remote Script.md"
               }
             }
           }
@@ -157,11 +157,18 @@
   },
   "active": "41f9ab59b2f35602",
   "lastOpenFiles": [
-    "README.md",
+    "Shell Script/Shell Script.md",
+    "Shell Script/SSH Remote Script.md",
     "Shell Script/Script Introduction.md",
     "Shell Script/Computer System.md",
+    "Ubuntu Installation/GitLab SSH key.md",
+    "Ubuntu Installation/Ubuntu Installation.md",
+    "Docker/Docker.md",
+    "Docker/Connecting Containers.md",
+    "Docker/Docker Commands.md",
+    "Cloud (AWS EC2)/SSH & SCP.md",
+    "README.md",
     "Tags",
-    "Shell Script/Shell Script.md",
     "hardware_kernel_shell 2.png",
     "hardware_kernel_shell 1.png",
     "Pictures/hardware_kernel_shell.png",
@@ -177,16 +184,10 @@
     "Knowledge/Database Transaction.md",
     "Knowledge/Nginx.md",
     "Upgrade System/Upgrade Ubuntu.md",
-    "Ubuntu Installation/GitLab SSH key.md",
     "Ubuntu Installation/SSH Settings.md",
     "Ubuntu Installation/Virtualbox Ubuntu.md",
     "PHP MongoDB Redis/PHP Redis Commands.md",
     "PHP MongoDB Redis/PHP Redis Connection.md",
-    "PHP MongoDB Redis/PHP MongoDB Commands.md",
-    "PHP MongoDB Redis/PHP MongoDB Connection.md",
-    "Computer Network/Wi-Fi + Ethernet.md",
-    "Database/Redis Commands.md",
-    "Database/MongoDB Commands.md",
     "load_balancer 1.png",
     "Pictures/load_balancer.png",
     "Pictures/forward_and_reverse_proxy.png",

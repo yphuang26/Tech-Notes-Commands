@@ -45,7 +45,10 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//Tags"
+    "//Tags",
+    "//Docker",
+    "//Ubuntu Installation",
+    "//Shell Script"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
