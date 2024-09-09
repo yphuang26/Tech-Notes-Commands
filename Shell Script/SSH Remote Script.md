@@ -36,6 +36,7 @@ delimiter
 REMOTE_USER="remote_user"
 REMOT_HOST="remote_host"
 
+# remote_commands.sh 存放欲執行的指令
 ssh -o StrictHostKeyChecking=no ${REMOTE_USER}@${REMOTE_HOST} < remote_commands.sh
 ```
 ### SSH 處理 password 的方式

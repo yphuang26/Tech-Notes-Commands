@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shell Script/SSH Remote Script.md",
+                "file": "PHP MongoDB Redis/PHP MongoDB Connection.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shell Script/SSH Remote Script.md",
+                "file": "PHP MongoDB Redis/PHP MongoDB Connection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shell Script/SSH Remote Script.md",
+                "file": "PHP MongoDB Redis/PHP MongoDB Connection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shell Script/SSH Remote Script.md"
+                "file": "PHP MongoDB Redis/PHP MongoDB Connection.md"
               }
             }
           }
@@ -157,9 +157,14 @@
   },
   "active": "41f9ab59b2f35602",
   "lastOpenFiles": [
+    "Upgrade System/Upgrade System.md",
+    "Upgrade System/Upgrade Ubuntu.md",
+    "Database/Redis Commands.md",
+    "Database/MongoDB Commands.md",
+    "Database/PostgreSQL Commands.md",
+    "Shell Script/SSH Remote Script.md",
     "Shell Script/Computer System.md",
     "Shell Script/Script Introduction.md",
-    "Shell Script/SSH Remote Script.md",
     "Shell Script/Shell Script.md",
     "Ubuntu Installation/GitLab SSH key.md",
     "Ubuntu Installation/Ubuntu Installation.md",
@@ -183,11 +188,6 @@
     "Knowledge/File Permissions in Unix.md",
     "Knowledge/Database Transaction.md",
     "Knowledge/Nginx.md",
-    "Upgrade System/Upgrade Ubuntu.md",
-    "Ubuntu Installation/SSH Settings.md",
-    "Ubuntu Installation/Virtualbox Ubuntu.md",
-    "PHP MongoDB Redis/PHP Redis Commands.md",
-    "PHP MongoDB Redis/PHP Redis Connection.md",
     "load_balancer 1.png",
     "Pictures/load_balancer.png",
     "Pictures/forward_and_reverse_proxy.png",
