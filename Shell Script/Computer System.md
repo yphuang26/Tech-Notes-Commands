@@ -1,3 +1,4 @@
+
 ### 計算機系統
 ---
 在計算機系統中，硬體（Hardware）、核心（Kernel）、殼層（Shell）和應用程式（Application）之間的關係如下：

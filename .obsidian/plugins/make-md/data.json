@@ -45,7 +45,8 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//Tags"
+    "//Tags",
+    "//Docker"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

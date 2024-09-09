@@ -20,6 +20,6 @@ $collection->insertOne($data);
 Deleting data through `serial_number` :
 ```php
 $collection = $database->selectCollection('devices');
-$deleteFilter = ['serial_number' => '1234X567J89P'];
+$deleteFilter = ['serial_number' => '1234A567B89C'];
 $collection->deleteOne($deleteFilter);
 ```

@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP MongoDB Redis/PHP MongoDB Connection.md",
+                "file": "Docker/Docker Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f04a8fca613c737",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud (AWS EC2)/AWS ECR service quotas.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP MongoDB Redis/PHP MongoDB Connection.md",
+                "file": "Docker/Docker Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHP MongoDB Redis/PHP MongoDB Connection.md",
+                "file": "Docker/Docker Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHP MongoDB Redis/PHP MongoDB Connection.md"
+                "file": "Docker/Docker Introduction.md"
               }
             }
           }
@@ -157,37 +169,38 @@
   },
   "active": "41f9ab59b2f35602",
   "lastOpenFiles": [
-    "Upgrade System/Upgrade System.md",
+    "README.md",
+    "Knowledge/File Permissions in Unix.md",
+    "Knowledge/Set Environment Variables.md",
+    "Knowledge/Database Transaction.md",
+    "Knowledge/Nginx.md",
     "Upgrade System/Upgrade Ubuntu.md",
+    "Ubuntu Installation/Ubuntu Installation.md",
+    "Ubuntu Installation/GitLab SSH key.md",
+    "Ubuntu Installation/SSH Settings.md",
+    "Ubuntu Installation/Virtualbox Ubuntu.md",
+    "PHP MongoDB Redis/PHP Redis Commands.md",
+    "PHP MongoDB Redis/PHP Redis Connection.md",
+    "PHP MongoDB Redis/PHP MongoDB Connection.md",
+    "PHP MongoDB Redis/PHP MongoDB Commands.md",
+    "Computer Network/Wi-Fi + Ethernet.md",
+    "Computer Network/Wi-Fi Related.md",
+    "Computer Network/Devices.md",
     "Database/Redis Commands.md",
     "Database/MongoDB Commands.md",
     "Database/PostgreSQL Commands.md",
-    "Shell Script/SSH Remote Script.md",
-    "Shell Script/Computer System.md",
-    "Shell Script/Script Introduction.md",
-    "Shell Script/Shell Script.md",
-    "Ubuntu Installation/GitLab SSH key.md",
-    "Ubuntu Installation/Ubuntu Installation.md",
-    "Docker/Docker.md",
+    "Backend Setup/Wordpress.md",
+    "Backend Setup/MySQL & phpMyAdmin.md",
+    "Docker/Docker Introduction.md",
+    "Docker/Ubuntu Install Docker.md",
+    "Docker/Docker Network.md",
     "Docker/Connecting Containers.md",
-    "Docker/Docker Commands.md",
-    "Cloud (AWS EC2)/SSH & SCP.md",
-    "README.md",
+    "Pictures/docker_engine.png",
     "Tags",
     "hardware_kernel_shell 2.png",
     "hardware_kernel_shell 1.png",
     "Pictures/hardware_kernel_shell.png",
-    "Pictures/Pictures.md",
-    "Cloud (AWS EC2)/AWS ECR service quotas.md",
     "Shell Script",
-    "Computer Network/Wi-Fi Related.md",
-    "Computer Network/Devices.md",
-    "Cloud (AWS EC2)/Cloud (AWS EC2).md",
-    "Knowledge/Set Environment Variables.md",
-    "Knowledge/Knowledge.md",
-    "Knowledge/File Permissions in Unix.md",
-    "Knowledge/Database Transaction.md",
-    "Knowledge/Nginx.md",
     "load_balancer 1.png",
     "Pictures/load_balancer.png",
     "Pictures/forward_and_reverse_proxy.png",
@@ -199,7 +212,6 @@
     "Ubuntu Installation",
     "Pictures",
     "PHP MongoDB Redis",
-    "Pictures/computer_network.png",
     "Computer Network",
     "Database",
     "Backend Setup"

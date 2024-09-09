@@ -1,3 +1,4 @@
+
 #### 使用 `os.environ` (僅在當前的 python 中有效)
 ###### 讀取環境變數
 ```python
