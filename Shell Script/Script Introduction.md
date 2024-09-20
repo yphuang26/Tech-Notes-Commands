@@ -204,3 +204,4 @@ Shell Script 支援許多好用的特殊變數，可以方便我們透過使用�
 ---
 - [簡明 Linux Shell Script 入門教學](https://blog.techbridge.cc/2019/11/15/linux-shell-script-tutorial/)
 - [[Medium] Shell Script 簡易筆記](https://medium.com/@yihengwu/%E7%A8%8B%E5%BC%8F%E7%AD%86%E8%A8%98-shell-script-%E7%B0%A1%E6%98%93%E7%AD%86%E8%A8%98-841cfc3ae3ab)
+

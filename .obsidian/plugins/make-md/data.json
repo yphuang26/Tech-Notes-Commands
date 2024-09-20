@@ -45,7 +45,8 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//Shell Script"
+    "//Shell Script",
+    "//Ubuntu Installation"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
