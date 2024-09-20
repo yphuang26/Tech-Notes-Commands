@@ -45,9 +45,7 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//Tags",
-    "//Shell Script",
-    "//Docker"
+    "//Shell Script"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

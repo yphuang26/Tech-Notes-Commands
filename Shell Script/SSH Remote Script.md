@@ -8,8 +8,7 @@ REMOTE_USER="remote_user"
 REMOT_HOST="remote_host"
 
 ssh -o StrictHostKeyChecking=no -T ${REMOTE_USER}@${REMOTE_HOST} << EOF
-echo "Hello World"
-exit
+echo "Hello World"; exit
 EOF
 ```
 > `exit` : 用來結束當前的 shell 或腳本。當在 SSH 會話中使用 `exit` 時，它會結束該遠端對話並返回本地終端。
