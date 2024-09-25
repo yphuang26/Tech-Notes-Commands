@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shell Script/Script Useful Commands.md",
+                "file": "Shell Script/Convert Script to Binary.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shell Script/Script Useful Commands.md",
+                "file": "Shell Script/Convert Script to Binary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shell Script/Script Useful Commands.md",
+                "file": "Shell Script/Convert Script to Binary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shell Script/Script Useful Commands.md"
+                "file": "Shell Script/Convert Script to Binary.md"
               }
             }
           }
@@ -169,12 +169,15 @@
   },
   "active": "41f9ab59b2f35602",
   "lastOpenFiles": [
-    "Shell Script/Shell Script.md",
     "Shell Script/Script Useful Commands.md",
+    "Shell Script/Convert Script to Binary.md",
+    "Ubuntu Installation/SSH Settings.md",
+    "Cloud (AWS EC2)/SSH & SCP.md",
+    "Tags",
+    "Shell Script/Shell Script.md",
     "Shell Script/SSH Remote Script.md",
     "Shell Script/Script Introduction.md",
     "Shell Script/Script Detect OS.md",
-    "Ubuntu Installation/SSH Settings.md",
     "Ubuntu Installation/Virtualbox Ubuntu.md",
     "Ubuntu Installation/Ubuntu Installation.md",
     "Shell Script/Computer System.md",
@@ -182,7 +185,6 @@
     "Cloud (AWS EC2)/AWS ECR service quotas.md",
     "Cloud (AWS EC2)/AWS S3 & ECR.md",
     "Cloud (AWS EC2)/Instance Connection.md",
-    "Cloud (AWS EC2)/SSH & SCP.md",
     "Cloud (AWS EC2)/Cloud (AWS EC2).md",
     "Vault.md",
     "Docker/Docker Commands.md",
@@ -194,9 +196,7 @@
     "Knowledge/Nginx.md",
     "Upgrade System/Upgrade Ubuntu.md",
     "Ubuntu Installation/GitLab SSH key.md",
-    "PHP MongoDB Redis/PHP Redis Commands.md",
     "Pictures/docker_engine.png",
-    "Tags",
     "hardware_kernel_shell 2.png",
     "hardware_kernel_shell 1.png",
     "Pictures/hardware_kernel_shell.png",
