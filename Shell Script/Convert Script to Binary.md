@@ -4,11 +4,8 @@
 `shc` 是一個常見的工具，可以將 shell 腳本編譯成二進制可執行文件。它支持靜態和動態鏈接，適用於 Linux 系統。
 1. 安裝 `shc` : 
 ```shell
-wget http://www.datsi.fi.upm.es/%7Efrosal/sources/shc-3.8.9.tgz
-tar -xvzf shc-3.8.9.tgz
-cd shc-3.8.9
-make
-sudo make install
+sudo apt update
+sudo apt install shc
 ```
 2. 編譯腳本: 
 ```shell
