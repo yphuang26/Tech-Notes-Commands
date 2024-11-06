@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shell Script/Convert Script to Binary.md",
+                "file": "Shell Script/grep awk sed.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "grep awk sed"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "Cloud (AWS EC2)/AWS ECR service quotas.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "AWS ECR service quotas"
             }
           }
         ]
@@ -51,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -66,7 +72,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -74,15 +82,19 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
-            "id": "28f1ad5f4a9d26d9",
+            "id": "7cd7a9029395daea",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
-              "state": {}
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
             }
           }
         ],
@@ -114,7 +126,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Convert Script to Binary"
             }
           },
           {
@@ -126,7 +140,9 @@
                 "file": "Shell Script/Convert Script to Binary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Convert Script to Binary"
             }
           },
           {
@@ -137,7 +153,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -147,7 +165,9 @@
               "type": "outline",
               "state": {
                 "file": "Shell Script/Convert Script to Binary.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Convert Script to Binary"
             }
           }
         ]
@@ -169,18 +189,19 @@
   },
   "active": "41f9ab59b2f35602",
   "lastOpenFiles": [
+    "Shell Script/Computer System.md",
     "Shell Script/Script Useful Commands.md",
     "Shell Script/Convert Script to Binary.md",
+    "Shell Script/grep awk sed.md",
+    "Shell Script/Script Introduction.md",
+    "Shell Script/SSH Remote Script.md",
+    "Shell Script/Script Detect OS.md",
     "Ubuntu Installation/SSH Settings.md",
     "Cloud (AWS EC2)/SSH & SCP.md",
     "Tags",
     "Shell Script/Shell Script.md",
-    "Shell Script/SSH Remote Script.md",
-    "Shell Script/Script Introduction.md",
-    "Shell Script/Script Detect OS.md",
     "Ubuntu Installation/Virtualbox Ubuntu.md",
     "Ubuntu Installation/Ubuntu Installation.md",
-    "Shell Script/Computer System.md",
     "Cloud (AWS EC2)/rsync.md",
     "Cloud (AWS EC2)/AWS ECR service quotas.md",
     "Cloud (AWS EC2)/AWS S3 & ECR.md",
@@ -195,7 +216,6 @@
     "Knowledge/Database Transaction.md",
     "Knowledge/Nginx.md",
     "Upgrade System/Upgrade Ubuntu.md",
-    "Ubuntu Installation/GitLab SSH key.md",
     "Pictures/docker_engine.png",
     "hardware_kernel_shell 2.png",
     "hardware_kernel_shell 1.png",
