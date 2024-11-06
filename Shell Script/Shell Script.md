@@ -6,3 +6,5 @@ sticker: emoji//1f41a
 [[SSH Remote Script]]
 [[Script Detect OS]]
 [[Script Useful Commands]]
+[[Convert Script to Binary]]
+[[grep awk sed]]
