@@ -11,12 +11,14 @@
             "id": "41f9ab59b2f35602",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Shell Script"
+                "file": "Knowledge/WebSocket.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Shell Script"
+              "title": "WebSocket"
             }
           }
         ]
@@ -171,8 +173,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4cbecaac8662aac",
+  "active": "41f9ab59b2f35602",
   "lastOpenFiles": [
+    "Knowledge/Knowledge.md",
+    "Knowledge/Network Protocols.md",
+    "Knowledge/WebSocket.md",
+    "Knowledge/Nginx.md",
+    "Knowledge/Database Transaction.md",
+    "Upgrade System/Upgrade Ubuntu.md",
+    "Ubuntu/File Permissions in Unix.md",
+    "Ubuntu/Set Environment Variables.md",
+    "Ubuntu/GitLab SSH key.md",
+    "Ubuntu/SSH Settings.md",
+    "Ubuntu/Virtualbox Ubuntu Setup.md",
     "Shell Script/grep awk sed.md",
     "Cloud (AWS EC2)/AWS ECR service quotas.md",
     "Shell Script/Script Useful Commands.md",
@@ -182,24 +195,13 @@
     "Shell Script/Script Introduction.md",
     "Shell Script/SSH Remote Script.md",
     "Shell Script/Script Detect OS.md",
-    "Ubuntu Installation/SSH Settings.md",
     "Cloud (AWS EC2)/SSH & SCP.md",
     "Tags",
     "Shell Script/Shell Script.md",
-    "Ubuntu Installation/Virtualbox Ubuntu.md",
-    "Ubuntu Installation/Ubuntu Installation.md",
+    "Ubuntu/Ubuntu.md",
     "Cloud (AWS EC2)/rsync.md",
     "Cloud (AWS EC2)/AWS S3 & ECR.md",
     "Cloud (AWS EC2)/Instance Connection.md",
-    "Cloud (AWS EC2)/Cloud (AWS EC2).md",
-    "Vault.md",
-    "Docker/Docker Commands.md",
-    "Knowledge/File Permissions in Unix.md",
-    "Docker/Docker Container.md",
-    "Docker/Docker Introduction.md",
-    "Knowledge/Set Environment Variables.md",
-    "Knowledge/Database Transaction.md",
-    "Knowledge/Nginx.md",
     "Pictures/docker_engine.png",
     "hardware_kernel_shell 2.png",
     "hardware_kernel_shell 1.png",
@@ -213,7 +215,7 @@
     "region 2.png",
     "region 1.png",
     "Pictures/region.png",
-    "Ubuntu Installation",
+    "Ubuntu",
     "Pictures",
     "PHP MongoDB Redis",
     "Computer Network",
