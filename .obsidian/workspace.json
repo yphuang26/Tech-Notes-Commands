@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/WebSocket.md",
+                "file": "Learning Golang/Basic Commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WebSocket"
+              "title": "Basic Commands"
             }
           }
         ]
@@ -175,9 +175,13 @@
   },
   "active": "41f9ab59b2f35602",
   "lastOpenFiles": [
-    "Knowledge/Knowledge.md",
-    "Knowledge/Network Protocols.md",
+    "Learning Golang/Introduction to Golang.md",
+    "Learning Golang/Basic Commands.md",
+    "Learning Golang/Learning Golang.md",
+    "Learning Golang",
     "Knowledge/WebSocket.md",
+    "Knowledge/Network Protocols.md",
+    "Knowledge/Knowledge.md",
     "Knowledge/Nginx.md",
     "Knowledge/Database Transaction.md",
     "Upgrade System/Upgrade Ubuntu.md",
@@ -199,9 +203,6 @@
     "Tags",
     "Shell Script/Shell Script.md",
     "Ubuntu/Ubuntu.md",
-    "Cloud (AWS EC2)/rsync.md",
-    "Cloud (AWS EC2)/AWS S3 & ECR.md",
-    "Cloud (AWS EC2)/Instance Connection.md",
     "Pictures/docker_engine.png",
     "hardware_kernel_shell 2.png",
     "hardware_kernel_shell 1.png",
@@ -219,7 +220,6 @@
     "Pictures",
     "PHP MongoDB Redis",
     "Computer Network",
-    "Database",
-    "Backend Setup"
+    "Database"
   ]
 }

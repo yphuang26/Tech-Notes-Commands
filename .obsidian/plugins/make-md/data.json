@@ -45,8 +45,9 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//Knowledge",
-    "//Ubuntu Installation"
+    "//Ubuntu Installation",
+    "//Tags",
+    "//Learning Golang"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
