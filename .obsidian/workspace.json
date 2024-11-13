@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Golang/Basic Commands.md",
+                "file": "Learning Golang/Introduction to Golang.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic Commands"
+              "title": "Introduction to Golang"
             }
           }
         ]
@@ -175,8 +175,8 @@
   },
   "active": "41f9ab59b2f35602",
   "lastOpenFiles": [
-    "Learning Golang/Introduction to Golang.md",
     "Learning Golang/Basic Commands.md",
+    "Learning Golang/Introduction to Golang.md",
     "Learning Golang/Learning Golang.md",
     "Learning Golang",
     "Knowledge/WebSocket.md",

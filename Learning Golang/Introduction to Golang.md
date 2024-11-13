@@ -1,7 +1,27 @@
 20 
-### 安裝 Go
+### 安裝 Go (Linux)
 ---
-[到 Go 官網下載安裝包](https://go.dev/)，並執行以下命令來確認安裝:
+1. 檢查作業系統架構:
+```shell
+uname -m
+```
+2. 瀏覽 [Go 官網下載版本](https://go.dev/dl/)下載相對應版本，例如:
+```shell
+wget https://go.dev/dl/go1.23.3.linux-amd64.tar.gz
+```
+3. 解壓縮到欲安裝的目錄下，例如 `/usr/local/` :
+```shell
+tar zxvf go1.23.3.linux-amd64.tar.gz -C /usr/local/
+```
+4. 設定 PATH，在 `~/.bashrc` 文件內加入以下內容:
+```shell
+export PATH=$PATH:/usr/local/go/bin
+```
+5. 使設定立即生效 (可以透過 `echo $PATH` 來檢查):
+```shell
+source ~/.bashrc
+```
+6. 檢查是否安裝成功:
 ```shell
 go version
 ```
