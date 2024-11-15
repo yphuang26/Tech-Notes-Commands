@@ -46,9 +46,7 @@
   "expandedSpaces": [
     "/",
     "//Ubuntu Installation",
-    "//Tags",
-    "//Learning Golang",
-    "//Docker"
+    "//Tags"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

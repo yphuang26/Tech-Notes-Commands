@@ -13,17 +13,17 @@ docker images
 
 Remove Docker image:
 ```shell
-docker rmi {IMAGE_ID}
+docker rmi ${IMAGE_ID}
 ```
 
 Start a Bash shell in the running container:
 ```shell
-docker exec -it {CONTAINER_NAME} /bin/bash
+docker exec -it ${CONTAINER_NAME} /bin/bash
 ```
 
 Start a shell(sh) in the running container:
 ```shell
-docker exec -it {CONTAINER_NAME} sh
+docker exec -it ${CONTAINER_NAME} sh
 ```
 
 Exit the current shell:
@@ -33,18 +33,18 @@ exit
 
 Start/ Restart a container:
 ```shell
-docker start {CONTAINER_NAME}
-docker restart {CONTAINER_NAME}
+docker start ${CONTAINER_NAME}
+docker restart ${CONTAINER_NAME}
 ```
 
 Stop a running container:
 ```shell
-docker stop {CONTAINER_NAME}
+docker stop ${CONTAINER_NAME}
 ```
 
 Remove a stopped container:
 ```shell
-docker rm {CONTAINER_NAME}
+docker rm ${CONTAINER_NAME}
 ```
 
 參考: [Docker 指令大全](https://cutejaneii.gitbook.io/docker/docker/docker-chang-yong-zhi-ling)

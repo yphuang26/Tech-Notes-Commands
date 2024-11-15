@@ -5,8 +5,8 @@
 3.  ![[docker_engine.png|400]]
 ### Docker 重要觀念
 ---
-**映像檔 ([[Docker Image]])**: 利用 Docker Engine 將「應用程式」打包的一個唯獨單元
-**容器 ([[Docker Container]])**: 利用映像檔建立的一個執行實例 (runtime instance)，一個映像檔可建立多個容器
+**映像檔 (Image)**: 利用 Docker Engine 將「應用程式」打包的一個唯獨單元
+**容器 (Container)**: 利用映像檔建立的一個執行實例 (runtime instance)，一個映像檔可建立多個容器
 **倉庫 (Registry)**: 存放映像檔的地方，分為公用倉庫及私有倉庫
 ### Docker 原理
 ---

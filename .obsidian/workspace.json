@@ -13,10 +13,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Docker"
+                "path": "Ubuntu"
               },
               "icon": "lucide-file",
-              "title": "Docker"
+              "title": "Ubuntu"
             }
           }
         ]
@@ -171,35 +171,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb77c3151a1ce804",
+  "active": "0b8ba52c09d617f6",
   "lastOpenFiles": [
-    "Docker/Docker Introduction.md",
-    "Docker/Docker Commands.md",
-    "Docker/Docker Container.md",
-    "Docker/Docker Image.md",
-    "Docker/Install Docker.md",
-    "Docker/Docker Network.md",
-    "Docker/Connecting Containers.md",
+    "README.md",
+    "Learning Golang/Basic Usage.md",
     "Learning Golang/Introduction to Golang.md",
-    "Learning Golang/Basic Commands.md",
-    "Learning Golang/Learning Golang.md",
-    "Learning Golang",
+    "Shell Script/grep awk sed.md",
+    "Shell Script/Convert Script to Binary.md",
+    "Shell Script/Script Useful Commands.md",
+    "Shell Script/Script to Detect OS.md",
+    "Shell Script/SSH Remote Script.md",
+    "Shell Script/Script Introduction.md",
+    "Shell Script/Computer System.md",
     "Knowledge/WebSocket.md",
     "Knowledge/Network Protocols.md",
-    "Knowledge/Knowledge.md",
-    "Knowledge/Nginx.md",
     "Knowledge/Database Transaction.md",
+    "Knowledge/Nginx.md",
     "Upgrade System/Upgrade Ubuntu.md",
     "Ubuntu/File Permissions in Unix.md",
     "Ubuntu/Set Environment Variables.md",
     "Ubuntu/GitLab SSH key.md",
-    "Ubuntu/SSH Settings.md",
     "Ubuntu/Virtualbox Ubuntu Setup.md",
-    "Shell Script/grep awk sed.md",
-    "Cloud (AWS EC2)/AWS ECR service quotas.md",
-    "Shell Script/Script Useful Commands.md",
-    "Shell Script/Convert Script to Binary.md",
-    "Shell Script/Computer System.md",
+    "Ubuntu/SSH Settings.md",
+    "PHP MongoDB Redis/PHP Redis Commands.md",
+    "PHP MongoDB Redis/PHP Redis Connection.md",
+    "PHP MongoDB Redis/PHP MongoDB Commands.md",
+    "PHP MongoDB Redis/PHP MongoDB Connection.md",
+    "Database/MongoDB Commands.md",
+    "Computer Network/Devices.md",
+    "Learning Golang",
     "Tags",
     "Pictures/docker_engine.png",
     "hardware_kernel_shell 2.png",

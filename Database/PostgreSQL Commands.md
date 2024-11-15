@@ -1,7 +1,7 @@
 
 ### Connect to remote PostgreSQL server
 ```shell
-psql -h {ip_address} -U root -d mydb
+psql -h ${ip_address} -U root -d mydb
 ```
 
 PostgreSQL 是一個關連式資料庫管理系統（RDBMS）。這表示它是一個管理關連性質資料的系統。關連性，基本上在數學裡是以資料表（table）的形式來表現的。
