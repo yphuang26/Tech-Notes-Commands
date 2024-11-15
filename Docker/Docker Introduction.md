@@ -27,7 +27,7 @@ Docker 利用 Linux 的**命名空間 (Namespaces)** 和**控制組 (Cgroups)** 
 ##### Layer 的建構範例
 ---
 撰寫 Dockerfile 時，每一行指令都會生成一個新的 Layer:
-```
+```sh
 FROM ubuntu:20.04
 RUN apt-get update && apt-get install -y python3
 COPY . /app

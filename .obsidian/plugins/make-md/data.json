@@ -47,7 +47,8 @@
     "/",
     "//Ubuntu Installation",
     "//Tags",
-    "//Learning Golang"
+    "//Learning Golang",
+    "//Docker"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

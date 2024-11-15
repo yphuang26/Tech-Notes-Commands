@@ -1,5 +1,14 @@
 
-#### 讓 Apache Redis MongoDB 三個容器在同一個 Docker Network 中運行:
+列出現有的 Docker Networks:
+```sh
+docker network ls
+```
+創建新的 Docker Network:
+```sh
+docker network create ${NETWORK_NAME}
+```
+#### 範例
+讓 Apache Redis MongoDB 三個容器在同一個 Docker Network 中運行:
 ```shell
 # 1. 創建一個自定義的 Docker 網路:
 docker network create mynetwork
