@@ -13,10 +13,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Ubuntu"
+                "path": "Learning Golang"
               },
               "icon": "lucide-file",
-              "title": "Ubuntu"
+              "title": "Learning Golang"
             }
           }
         ]
@@ -171,11 +171,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b8ba52c09d617f6",
+  "active": "a2b10dbf5d93e431",
   "lastOpenFiles": [
-    "README.md",
+    "Learning Golang/Method, Embedding, Interface.md",
+    "Learning Golang/Pointer, Map, Struct.md",
     "Learning Golang/Basic Usage.md",
+    "Docker/Docker Introduction.md",
     "Learning Golang/Introduction to Golang.md",
+    "Tags",
+    "README.md",
     "Shell Script/grep awk sed.md",
     "Shell Script/Convert Script to Binary.md",
     "Shell Script/Script Useful Commands.md",
@@ -196,11 +200,7 @@
     "PHP MongoDB Redis/PHP Redis Commands.md",
     "PHP MongoDB Redis/PHP Redis Connection.md",
     "PHP MongoDB Redis/PHP MongoDB Commands.md",
-    "PHP MongoDB Redis/PHP MongoDB Connection.md",
-    "Database/MongoDB Commands.md",
-    "Computer Network/Devices.md",
     "Learning Golang",
-    "Tags",
     "Pictures/docker_engine.png",
     "hardware_kernel_shell 2.png",
     "hardware_kernel_shell 1.png",
