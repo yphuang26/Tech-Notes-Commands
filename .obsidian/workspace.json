@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Golang/Exception Handling.md",
+                "file": "Learning Golang/HTTP, Go-Routine, Channel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exception Handling"
+              "title": "HTTP, Go-Routine, Channel"
             }
           }
         ]
@@ -175,12 +175,14 @@
   },
   "active": "41f9ab59b2f35602",
   "lastOpenFiles": [
+    "Learning Golang/HTTP, Go-Routine, Channel.md",
+    "Learning Golang/Encoding.md",
+    "Learning Golang/Introduction to Golang.md",
+    "Learning Golang/Basic Usage.md",
     "Learning Golang/Exception Handling.md",
     "Learning Golang/Method, Embedding, Interface.md",
     "Learning Golang/Pointer, Map, Struct.md",
-    "Learning Golang/Basic Usage.md",
     "Docker/Docker Introduction.md",
-    "Learning Golang/Introduction to Golang.md",
     "Tags",
     "README.md",
     "Shell Script/grep awk sed.md",
@@ -200,8 +202,6 @@
     "Ubuntu/GitLab SSH key.md",
     "Ubuntu/Virtualbox Ubuntu Setup.md",
     "Ubuntu/SSH Settings.md",
-    "PHP MongoDB Redis/PHP Redis Commands.md",
-    "PHP MongoDB Redis/PHP Redis Connection.md",
     "Learning Golang",
     "Pictures/docker_engine.png",
     "hardware_kernel_shell 2.png",
