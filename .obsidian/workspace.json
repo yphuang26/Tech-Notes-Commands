@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Golang/Introduction to Golang.md",
+                "file": "Learning Golang/Package Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to Golang"
+              "title": "Package Introduction"
             }
           }
         ]
@@ -175,20 +175,22 @@
   },
   "active": "41f9ab59b2f35602",
   "lastOpenFiles": [
+    "Learning Golang/Basic Usage.md",
+    "Learning Golang/Learning Golang.md",
     "Learning Golang/Package Introduction.md",
     "Learning Golang/Introduction to Golang.md",
-    "Learning Golang/Basic Usage.md",
+    "Learning Golang/HTTP, Go-Routine, Channel.md",
+    "Learning Golang/Pointer, Map, Struct.md",
+    "Learning Golang/Encoding.md",
+    "Learning Golang/Exception Handling.md",
+    "Learning Golang/Method, Embedding, Interface.md",
+    "Learning Golang/Package Introduction.md",
     "Backend Setup/Wordpress.md",
     "Backend Setup/MySQL & phpMyAdmin.md",
     "Database/PostgreSQL Commands.md",
     "Database/Redis Commands.md",
     "Database/MongoDB Commands.md",
-    "Learning Golang/Exception Handling.md",
-    "Learning Golang/Method, Embedding, Interface.md",
-    "Learning Golang/HTTP, Go-Routine, Channel.md",
     "Tags",
-    "Learning Golang/Encoding.md",
-    "Learning Golang/Pointer, Map, Struct.md",
     "Docker/Docker Introduction.md",
     "README.md",
     "Shell Script/grep awk sed.md",
@@ -200,8 +202,6 @@
     "Shell Script/Computer System.md",
     "Knowledge/WebSocket.md",
     "Knowledge/Network Protocols.md",
-    "Knowledge/Database Transaction.md",
-    "Knowledge/Nginx.md",
     "Learning Golang",
     "Pictures/docker_engine.png",
     "hardware_kernel_shell 2.png",
