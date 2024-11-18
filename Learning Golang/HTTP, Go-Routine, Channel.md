@@ -34,7 +34,7 @@ defer resp.Body.Close()
 ### Go-Routine
 ---
 Go-Routine 是 Go 中的 輕量級執行緒 (lightweight thread)，適合實現高效能並發。
-1. 啟動 Go-Routine: 使用 Go 關鍵字啟動一個新的 Go-Routine:
+1. 啟動 Go-Routine: 使用 `go` 關鍵字啟動一個新的 Go-Routine:
 ```go
 func printMessage(message string) {
     fmt.Println(message)
@@ -68,7 +68,7 @@ func main() {
 2. 無緩衝與有緩衝 Channel:
 	- 無緩衝（`make(chan T)`）：傳輸方需等待接收方接收後才能繼續執行。
 	- 有緩衝（`make(chan T, bufferSize)`）：傳輸方可在緩衝區未滿時持續發送。
-3. 關閉 Channel: 使用 `close` 關閉 Channel，表示不會再有資料寫入：
+3. 關閉 Channel: 使用 `close` 關閉 Channel，表示不會再有資料寫入
 ```go
 close(ch)
 ```

@@ -11,14 +11,12 @@
             "id": "41f9ab59b2f35602",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Learning Golang/Package Introduction.md",
-                "mode": "source",
-                "source": false
+                "path": "Learning Golang"
               },
               "icon": "lucide-file",
-              "title": "Package Introduction"
+              "title": "Learning Golang"
             }
           }
         ]
@@ -173,20 +171,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41f9ab59b2f35602",
+  "active": "ba3789511a60e293",
   "lastOpenFiles": [
+    "Learning Golang/Synchronization.md",
+    "Learning Golang/HTTP, Go-Routine, Channel.md",
+    "Learning Golang/Encoding.md",
+    "Learning Golang/Pointer, Map, Struct.md",
     "Learning Golang/Basic Usage.md",
-    "Learning Golang/Learning Golang.md",
     "Learning Golang/Package Introduction.md",
     "Learning Golang/Introduction to Golang.md",
-    "Learning Golang/HTTP, Go-Routine, Channel.md",
-    "Learning Golang/Pointer, Map, Struct.md",
-    "Learning Golang/Encoding.md",
+    "Shell Script/Computer System.md",
+    "Shell Script/Script Introduction.md",
+    "Backend Setup/MySQL & phpMyAdmin.md",
+    "Backend Setup/Wordpress.md",
+    "Learning Golang/Learning Golang.md",
     "Learning Golang/Exception Handling.md",
     "Learning Golang/Method, Embedding, Interface.md",
-    "Learning Golang/Package Introduction.md",
-    "Backend Setup/Wordpress.md",
-    "Backend Setup/MySQL & phpMyAdmin.md",
     "Database/PostgreSQL Commands.md",
     "Database/Redis Commands.md",
     "Database/MongoDB Commands.md",
@@ -198,8 +198,6 @@
     "Shell Script/Script Useful Commands.md",
     "Shell Script/Script to Detect OS.md",
     "Shell Script/SSH Remote Script.md",
-    "Shell Script/Script Introduction.md",
-    "Shell Script/Computer System.md",
     "Knowledge/WebSocket.md",
     "Knowledge/Network Protocols.md",
     "Learning Golang",
