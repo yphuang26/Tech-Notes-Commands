@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Golang/Unit Test.md",
+                "file": "Knowledge/Isolation Level.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unit Test"
+              "title": "Isolation Level"
             }
           }
         ]
@@ -173,11 +173,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64a49fc4c1f7a9d0",
+  "active": "41f9ab59b2f35602",
   "lastOpenFiles": [
+    "Tags/Tags.md",
+    "Knowledge/Isolation Level.md",
+    "Pictures/phantom_read.png",
+    "Pictures/non-repeatable_read.png",
+    "Pictures/dirty_read.png",
     "Learning Golang/Unit Test.md",
-    "Learning Golang/Package Introduction.md",
+    "Knowledge/Network Protocols.md",
+    "Knowledge/WebSocket.md",
+    "Knowledge/Database Transaction.md",
+    "Cloud (AWS EC2)/SSH & SCP.md",
     "Learning Golang/Introduction to Golang.md",
+    "Shell Script/Script to Detect OS.md",
+    "Learning Golang/Package Introduction.md",
+    "Shell Script/Convert Script to Binary.md",
     "Learning Golang/Basic Usage.md",
     "Learning Golang/Synchronization.md",
     "Learning Golang/Pointer, Map, Struct.md",
@@ -185,7 +196,6 @@
     "Learning Golang/Method, Embedding, Interface.md",
     "Learning Golang/HTTP, Go-Routine, Channel.md",
     "PHP MongoDB Redis/PHP MongoDB Commands.md",
-    "Cloud (AWS EC2)/SSH & SCP.md",
     "Cloud (AWS EC2)/rsync.md",
     "Cloud (AWS EC2)/Instance Connection.md",
     "Cloud (AWS EC2)/AWS S3 & ECR.md",
@@ -194,14 +204,7 @@
     "Shell Script/Computer System.md",
     "Shell Script/Script Introduction.md",
     "Backend Setup/MySQL & phpMyAdmin.md",
-    "Backend Setup/Wordpress.md",
-    "Learning Golang/Learning Golang.md",
-    "Database/PostgreSQL Commands.md",
-    "Database/Redis Commands.md",
-    "Database/MongoDB Commands.md",
     "Tags",
-    "Docker/Docker Introduction.md",
-    "README.md",
     "Learning Golang",
     "Pictures/docker_engine.png",
     "hardware_kernel_shell 2.png",
@@ -213,9 +216,6 @@
     "Pictures/forward_and_reverse_proxy.png",
     "Knowledge",
     "Upgrade System",
-    "region 2.png",
-    "region 1.png",
-    "Pictures/region.png",
     "Ubuntu",
     "Pictures",
     "PHP MongoDB Redis",
