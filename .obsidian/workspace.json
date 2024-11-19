@@ -11,12 +11,14 @@
             "id": "41f9ab59b2f35602",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Learning Golang"
+                "file": "Learning Golang/Unit Test.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Learning Golang"
+              "title": "Unit Test"
             }
           }
         ]
@@ -171,35 +173,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba3789511a60e293",
+  "active": "64a49fc4c1f7a9d0",
   "lastOpenFiles": [
-    "Learning Golang/Synchronization.md",
-    "Learning Golang/HTTP, Go-Routine, Channel.md",
-    "Learning Golang/Encoding.md",
-    "Learning Golang/Pointer, Map, Struct.md",
-    "Learning Golang/Basic Usage.md",
+    "Learning Golang/Unit Test.md",
     "Learning Golang/Package Introduction.md",
     "Learning Golang/Introduction to Golang.md",
+    "Learning Golang/Basic Usage.md",
+    "Learning Golang/Synchronization.md",
+    "Learning Golang/Pointer, Map, Struct.md",
+    "Learning Golang/Exception Handling.md",
+    "Learning Golang/Method, Embedding, Interface.md",
+    "Learning Golang/HTTP, Go-Routine, Channel.md",
+    "PHP MongoDB Redis/PHP MongoDB Commands.md",
+    "Cloud (AWS EC2)/SSH & SCP.md",
+    "Cloud (AWS EC2)/rsync.md",
+    "Cloud (AWS EC2)/Instance Connection.md",
+    "Cloud (AWS EC2)/AWS S3 & ECR.md",
+    "Cloud (AWS EC2)/AWS ECR service quotas.md",
+    "Learning Golang/Encoding.md",
     "Shell Script/Computer System.md",
     "Shell Script/Script Introduction.md",
     "Backend Setup/MySQL & phpMyAdmin.md",
     "Backend Setup/Wordpress.md",
     "Learning Golang/Learning Golang.md",
-    "Learning Golang/Exception Handling.md",
-    "Learning Golang/Method, Embedding, Interface.md",
     "Database/PostgreSQL Commands.md",
     "Database/Redis Commands.md",
     "Database/MongoDB Commands.md",
     "Tags",
     "Docker/Docker Introduction.md",
     "README.md",
-    "Shell Script/grep awk sed.md",
-    "Shell Script/Convert Script to Binary.md",
-    "Shell Script/Script Useful Commands.md",
-    "Shell Script/Script to Detect OS.md",
-    "Shell Script/SSH Remote Script.md",
-    "Knowledge/WebSocket.md",
-    "Knowledge/Network Protocols.md",
     "Learning Golang",
     "Pictures/docker_engine.png",
     "hardware_kernel_shell 2.png",
