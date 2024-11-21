@@ -11,14 +11,12 @@
             "id": "41f9ab59b2f35602",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Knowledge/Isolation Level.md",
-                "mode": "source",
-                "source": false
+                "path": "Learning Golang"
               },
               "icon": "lucide-file",
-              "title": "Isolation Level"
+              "title": "Learning Golang"
             }
           }
         ]
@@ -173,34 +171,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41f9ab59b2f35602",
+  "active": "9385d8a48e9e8aef",
   "lastOpenFiles": [
-    "Tags/Tags.md",
+    "Learning Golang/Unit Test.md",
+    "Learning Golang/Synchronization.md",
+    "Learning Golang/HTTP, Go-Routine, Channel.md",
+    "Learning Golang/Encoding.md",
+    "Learning Golang/Exception Handling.md",
+    "Learning Golang/Method, Embedding, Interface.md",
+    "Learning Golang/Pointer, Map, Struct.md",
+    "Learning Golang/Basic Usage.md",
+    "Learning Golang/Package Introduction.md",
+    "Learning Golang/Introduction to Golang.md",
     "Knowledge/Isolation Level.md",
+    "Tags/Tags.md",
     "Pictures/phantom_read.png",
     "Pictures/non-repeatable_read.png",
     "Pictures/dirty_read.png",
-    "Learning Golang/Unit Test.md",
     "Knowledge/Network Protocols.md",
     "Knowledge/WebSocket.md",
     "Knowledge/Database Transaction.md",
     "Cloud (AWS EC2)/SSH & SCP.md",
-    "Learning Golang/Introduction to Golang.md",
     "Shell Script/Script to Detect OS.md",
-    "Learning Golang/Package Introduction.md",
     "Shell Script/Convert Script to Binary.md",
-    "Learning Golang/Basic Usage.md",
-    "Learning Golang/Synchronization.md",
-    "Learning Golang/Pointer, Map, Struct.md",
-    "Learning Golang/Exception Handling.md",
-    "Learning Golang/Method, Embedding, Interface.md",
-    "Learning Golang/HTTP, Go-Routine, Channel.md",
     "PHP MongoDB Redis/PHP MongoDB Commands.md",
     "Cloud (AWS EC2)/rsync.md",
     "Cloud (AWS EC2)/Instance Connection.md",
     "Cloud (AWS EC2)/AWS S3 & ECR.md",
     "Cloud (AWS EC2)/AWS ECR service quotas.md",
-    "Learning Golang/Encoding.md",
     "Shell Script/Computer System.md",
     "Shell Script/Script Introduction.md",
     "Backend Setup/MySQL & phpMyAdmin.md",
