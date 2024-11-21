@@ -2,6 +2,7 @@
 sticker: emoji//1f63a
 ---
 [[Introduction to Golang]]
+[[Go Module]]
 [[Package Introduction]]
 [[Basic Usage]]
 [[Pointer, Map, Struct]]

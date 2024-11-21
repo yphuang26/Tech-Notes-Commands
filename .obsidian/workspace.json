@@ -11,12 +11,14 @@
             "id": "41f9ab59b2f35602",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Learning Golang"
+                "file": "Learning Golang/Go Module.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Learning Golang"
+              "title": "Go Module"
             }
           }
         ]
@@ -171,8 +173,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9385d8a48e9e8aef",
+  "active": "41f9ab59b2f35602",
   "lastOpenFiles": [
+    "Learning Golang/Go Module.md",
+    "Learning Golang/Package Introduction.md",
     "Learning Golang/Unit Test.md",
     "Learning Golang/Synchronization.md",
     "Learning Golang/HTTP, Go-Routine, Channel.md",
@@ -181,7 +185,6 @@
     "Learning Golang/Method, Embedding, Interface.md",
     "Learning Golang/Pointer, Map, Struct.md",
     "Learning Golang/Basic Usage.md",
-    "Learning Golang/Package Introduction.md",
     "Learning Golang/Introduction to Golang.md",
     "Knowledge/Isolation Level.md",
     "Tags/Tags.md",
@@ -201,7 +204,6 @@
     "Cloud (AWS EC2)/AWS ECR service quotas.md",
     "Shell Script/Computer System.md",
     "Shell Script/Script Introduction.md",
-    "Backend Setup/MySQL & phpMyAdmin.md",
     "Tags",
     "Learning Golang",
     "Pictures/docker_engine.png",
