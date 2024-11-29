@@ -2,7 +2,7 @@
 sticker: emoji//1f42c
 ---
 [[Docker Introduction]]
-[[Install Docker]]
+[[Install Docker (Ubuntu)]]
 [[Docker Commands]]
 [[Docker Image]]
 [[Docker Container]]
