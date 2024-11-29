@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/BSON.md",
+                "file": "Docker/Install Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BSON"
+              "title": "Install Docker"
             }
           },
           {
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shell Script/Convert Script to Binary.md",
+                "file": "Docker/Install Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Convert Script to Binary"
+              "title": "Backlinks for Install Docker"
             }
           },
           {
@@ -189,6 +189,10 @@
   },
   "active": "41f9ab59b2f35602",
   "lastOpenFiles": [
+    "Docker/Docker Introduction.md",
+    "Computer Network/Ubuntu Network Setting (CLI).md",
+    "Computer Network/Wi-Fi + Ethernet.md",
+    "Computer Network/Wi-Fi Related.md",
     "Knowledge/BSON.md",
     "Ubuntu/GitLab SSH key.md",
     "Ubuntu/SSH Settings.md",
@@ -214,10 +218,6 @@
     "Knowledge/Network Protocols.md",
     "Knowledge/WebSocket.md",
     "Knowledge/Database Transaction.md",
-    "Shell Script/Script to Detect OS.md",
-    "Shell Script/Convert Script to Binary.md",
-    "PHP MongoDB Redis/PHP MongoDB Commands.md",
-    "Cloud (AWS EC2)/rsync.md",
     "Tags",
     "Learning Golang",
     "Pictures/docker_engine.png",
