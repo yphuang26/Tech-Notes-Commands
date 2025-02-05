@@ -47,4 +47,8 @@ Remove a stopped container:
 docker rm ${CONTAINER_NAME}
 ```
 
+Check docker logs:
+```shell
+docker logs ${CONTAINER_NAME}
+```
 參考: [Docker 指令大全](https://cutejaneii.gitbook.io/docker/docker/docker-chang-yong-zhi-ling)
