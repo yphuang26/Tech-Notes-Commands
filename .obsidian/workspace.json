@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Redis Commands.md",
+                "file": "Learning Golang/Pointer, Map, Struct.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Redis Commands"
+              "title": "Pointer, Map, Struct"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud (AWS EC2)/SSH & SCP.md",
+                "file": "Ubuntu/Resize VirtualBox VM hard disk (.vdi).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSH & SCP"
+              "title": "Resize VirtualBox VM hard disk (.vdi)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,8 +188,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41f9ab59b2f35602",
+  "active": "0fe933e3b27886a4",
   "lastOpenFiles": [
+    "Ubuntu/Resize VirtualBox VM hard disk (.vdi).md",
+    "Ubuntu/File Permissions in Unix.md",
+    "Ubuntu/Virtualbox Ubuntu Setup.md",
+    "Ubuntu/SSH Settings.md",
+    "Ubuntu/GitLab SSH key.md",
+    "Cloud (AWS EC2)/SSH & SCP.md",
+    "Learning Golang/Pointer, Map, Struct.md",
+    "Learning Golang/Basic Usage.md",
+    "Learning Golang/Package Introduction.md",
+    "Learning Golang/Go Module.md",
+    "Learning Golang/Introduction to Golang.md",
+    "Computer Network/Wi-Fi + Ethernet.md",
+    "Database/Redis Commands.md",
     "PHP MongoDB Redis/PHP Redis Connection.md",
     "PHP MongoDB Redis/PHP Redis Commands.md",
     "PHP MongoDB Redis/PHP MongoDB Commands.md",
@@ -196,25 +210,12 @@
     "Backend Setup/Wordpress.md",
     "Backend Setup/MySQL & phpMyAdmin.md",
     "Database/MongoDB Commands.md",
-    "Database/Redis Commands.md",
-    "Cloud (AWS EC2)/SSH & SCP.md",
-    "Learning Golang/Introduction to Golang.md",
-    "Ubuntu/GitLab SSH key.md",
     "Docker/Docker Commands.md",
     "Docker/Install Docker (Ubuntu).md",
     "Docker/Docker Introduction.md",
-    "Learning Golang/Go Module.md",
-    "Ubuntu/Virtualbox Ubuntu Setup.md",
     "Computer Network/Ubuntu Network Setting (CLI).md",
-    "Computer Network/Wi-Fi + Ethernet.md",
     "Computer Network/Wi-Fi Related.md",
     "Knowledge/BSON.md",
-    "Ubuntu/SSH Settings.md",
-    "Learning Golang/Package Introduction.md",
-    "Learning Golang/Unit Test.md",
-    "Learning Golang/Synchronization.md",
-    "Learning Golang/HTTP, Go-Routine, Channel.md",
-    "Learning Golang/Encoding.md",
     "Pictures/phantom_read.png",
     "Pictures/non-repeatable_read.png",
     "Pictures/dirty_read.png",
