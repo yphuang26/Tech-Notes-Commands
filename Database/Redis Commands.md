@@ -20,6 +20,5 @@ TYPE key                                  # 返回 key 所儲存的值的類型
 ```
 
 ```shell
-cat /epc/pipe/.epc-prod # 資料庫帳密
 redis-cli -a REDIS_PASS # 連線 Redis
 ```
