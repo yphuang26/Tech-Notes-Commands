@@ -18,7 +18,3 @@ RENAME key newkey                         # 修改 key 的名稱
 SCAN cursor [MATCH pattern] [COUNT count] # 迭代資料庫中的資料庫鍵
 TYPE key                                  # 返回 key 所儲存的值的類型
 ```
-
-```shell
-redis-cli -a REDIS_PASS # 連線 Redis
-```
