@@ -57,4 +57,5 @@ SISMEMBER key member       # 判斷 member 元素是否是集合 key 的成員
 SMEMBERS key               # 返回集合中的所有成員
 SREM key member1 [member2] # 移除集合中一個或多個成員
 ```
-
+#### Reference
+- [Redis 指令教學](https://www.runoob.com/redis/redis-commands.html)
