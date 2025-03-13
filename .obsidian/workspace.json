@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ubuntu/Resize VirtualBox VM hard disk (.vdi).md",
+                "file": "Database/Redis Commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resize VirtualBox VM hard disk (.vdi)"
+              "title": "Redis Commands"
             }
           }
         ],
@@ -89,7 +89,7 @@
             }
           },
           {
-            "id": "65bcf98fb9a6efdf",
+            "id": "c7562ad0844a815e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -190,13 +190,13 @@
   },
   "active": "0fe933e3b27886a4",
   "lastOpenFiles": [
+    "Learning Golang/Pointer, Map, Struct.md",
     "Ubuntu/Resize VirtualBox VM hard disk (.vdi).md",
     "Ubuntu/File Permissions in Unix.md",
     "Ubuntu/Virtualbox Ubuntu Setup.md",
     "Ubuntu/SSH Settings.md",
     "Ubuntu/GitLab SSH key.md",
     "Cloud (AWS EC2)/SSH & SCP.md",
-    "Learning Golang/Pointer, Map, Struct.md",
     "Learning Golang/Basic Usage.md",
     "Learning Golang/Package Introduction.md",
     "Learning Golang/Go Module.md",
