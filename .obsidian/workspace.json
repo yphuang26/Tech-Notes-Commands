@@ -11,14 +11,12 @@
             "id": "41f9ab59b2f35602",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Database/Redis Commands.md",
-                "mode": "source",
-                "source": false
+                "path": "Learning Golang"
               },
               "icon": "lucide-file",
-              "title": "Redis Commands"
+              "title": "Learning Golang"
             }
           }
         ]
@@ -173,8 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41f9ab59b2f35602",
+  "active": "0843c6cd821993d8",
   "lastOpenFiles": [
+    "Pictures/go-tools.png",
+    "Pictures/go-extension.png",
     "Learning Golang/Pointer, Map, Struct.md",
     "Ubuntu/Resize VirtualBox VM hard disk (.vdi).md",
     "Ubuntu/File Permissions in Unix.md",
@@ -200,7 +200,6 @@
     "Docker/Docker Introduction.md",
     "Computer Network/Ubuntu Network Setting (CLI).md",
     "Computer Network/Wi-Fi Related.md",
-    "Knowledge/BSON.md",
     "Pictures/phantom_read.png",
     "Pictures/non-repeatable_read.png",
     "Pictures/dirty_read.png",
@@ -213,7 +212,6 @@
     "Shell Script",
     "load_balancer 1.png",
     "Pictures/load_balancer.png",
-    "Pictures/forward_and_reverse_proxy.png",
     "Knowledge",
     "Upgrade System",
     "Ubuntu",
