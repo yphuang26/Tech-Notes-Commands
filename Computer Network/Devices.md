@@ -1,18 +1,18 @@
 
-- <span style="color:rgb(0, 176, 80)">Modem (modulator-demodulator，數據機)</span>: Used to connect to the Internet.
-- <span style="color:rgb(0, 176, 80)">Router (路由器)</span>: Acts as a gateway to the computer network and is placed between a modem and a switch or hub.
+- **Modem (modulator-demodulator，數據機)**: Used to connect to the Internet.
+- **Router (路由器)**: Acts as a gateway to the computer network and is placed between a modem and a switch or hub.
 	- IP 分享器，提供多個不同的 IP 給後端設備上網使用
 	- Wi-Fi 分享器可以額外透過無線訊號 (Wi-Fi) 分享 IP，讓手機或其他無線設備達上網的功能
 	- 路由器的網路孔分成對外 (WAN) 和對內 (LAN):
 		- WAN 端要接網路業者的訊號線或是數據機，連到外部網際網路
 		- LAN 端則是要接家中要連線上網的設備，例如電腦或電視都是內網
-- <span style="color:rgb(0, 176, 80)">Switch (交換器)</span>: Connects devices such as desktop, laptop, and access point to the router.
+- **Switch (交換器)**: Connects devices such as desktop, laptop, and access point to the router.
 	- 交換器可以讓連線設備形成區域網路 (內網)，所有的孔都是 LAN 端，交換器會記錄電腦的 MAC (網卡) 位址，每一台的網卡都不相同，封包能傳給指定的對象
 	- 常拿來當作分享器的線路擴充，但交換器不會主動配發 IP，必須由前端的分享器或數據機配發，一對多提供 IP 位址給後端多台接線上網的電腦或其他設備
 	- 使用情境:
 		- 如果分享器的 LAN 孔不夠使用，可以準備一台交換器接在分享器的 LAN 端，透過交換器就能再多接幾台設備
 		- 常見的應用有電腦連線印表機、不同電腦的共用資料夾或是手機投放畫面到電視觀看 (使用 Wi-Fi 連線也是能達到相同內網的效果)
-- <span style="color:rgb(0, 176, 80)">Access Point (AP，存取點)</span>: Connects a device wirelessly.
+- **Access Point (AP，存取點)**: Connects a device wirelessly.
 	- 存取點是區域網路 (LAN) 內的設備，用於擴展電腦網路的無線覆蓋範圍。 這可以增加可以連接到電腦網路的使用者數量
 
 

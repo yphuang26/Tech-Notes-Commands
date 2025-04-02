@@ -2,7 +2,7 @@
 ### 搜尋公開映像檔
 ---
 用 docker search 搜尋
-```
+```shell
 docker search nginx
 ```
 從公有/ 私有倉庫搜尋

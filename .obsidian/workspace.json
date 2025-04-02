@@ -11,12 +11,14 @@
             "id": "41f9ab59b2f35602",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Learning Golang"
+                "file": "PHP MongoDB Redis/PHP Redis Commands.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Learning Golang"
+              "title": "PHP Redis Commands"
             }
           }
         ]
@@ -72,7 +74,7 @@
             }
           },
           {
-            "id": "c7562ad0844a815e",
+            "id": "1cd5d726bfc81de7",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -171,7 +173,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0843c6cd821993d8",
+  "active": "41f9ab59b2f35602",
   "lastOpenFiles": [
     "Pictures/go-tools.png",
     "Pictures/go-extension.png",

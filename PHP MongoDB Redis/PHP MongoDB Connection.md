@@ -155,7 +155,7 @@ foreach ($collectionList as $collectionInfo) {
 ```shell
 mongosh --username <MONGO_USER> --password <MONGO_PASSWORD> --host <MONGO_HOST> --port <MONGO_PORT> --authenticationDatabase <MONGO_DB_NAME>
 ```
-查看主節點或副本集 (mongoDB 的操作比需在主節點執行): 
+查看主節點或副本集 (mongoDB 的操作必需在主節點執行): 
 ```shell
 db.isMaster()
 ```
