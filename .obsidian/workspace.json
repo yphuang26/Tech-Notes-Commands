@@ -13,10 +13,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Learning Golang"
+                "path": "Knowledge"
               },
               "icon": "lucide-file",
-              "title": "Learning Golang"
+              "title": "Knowledge"
             }
           }
         ]
@@ -72,7 +72,7 @@
             }
           },
           {
-            "id": "13995736646ca704",
+            "id": "496f5c43382c877e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -171,7 +171,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8087baed1ef14648",
+  "active": "abf1df3c5ba862fd",
   "lastOpenFiles": [
     "Pictures/go-tools.png",
     "Pictures/go-extension.png",
